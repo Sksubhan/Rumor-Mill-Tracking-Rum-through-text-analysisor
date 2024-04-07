@@ -13,4 +13,4 @@ Open repestive code editor like visual studio.
 Add the code into the file selected.
 Run code and in terminal type -- Streamlit run codename.py
 
-App will be opened in browser.
+App will in the browser.
